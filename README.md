@@ -32,7 +32,7 @@ Now, you are set up to run all the tests. Run in the terminal:
 ```
 npm run testAPI
 ```
-This command will initialize all the test, and will create a report.html in the reports folder of the project. A report is also included if you don't want to run all the tests.
+This command will initialize all the tests, and will create a report.html in the reports folder of the project. A report is also included if you don't want to run all the tests.
 
 Finally, to run the test that creates several tasks from a csv file, just run in the terminal:
 ```
